@@ -98,5 +98,45 @@ plt.tight_layout()
 ```
 
 ## Results and Visualisations
+![pop score](https://github.com/user-attachments/assets/620958d4-07d2-4758-aaa7-3147bb9bf587)
+Daily Rankings vs Popularity Score: Daily rankings provide a better measurement of global music preferences than popularity scores, as songs with a zero popularity score can still be ranked first.
+
+![daily rank of top 5](https://github.com/user-attachments/assets/b917c1c0-8230-43ce-9aaa-6caa675efe94)
+Daily Ranking Trends of Top 5 Songs by Region
+* Europe:
+Top songs that ranked high (1-10) in the winter months moved further down the ranking list after April.
+* North America:
+Top songs ranked low (>10) in December and between January and mid-April held consistent high rankings.
+* Latin America and Rest of the World:
+Rankings exhibit significant fluctuations.
+
+![audio features 1](https://github.com/user-attachments/assets/0ee4ed0f-0d95-4955-9887-250b127d7b90)
+Music Preferences According to Audio Features
+* Danceability:
+Highly preferred in all regions, especially in Europe and Latin America.
+* Energy Levels:
+Fairly similar across all regions, with Europe and Latin America showing slightly higher values.
+* Speechiness:
+Europe shows a slightly higher value, indicating a preference for tracks with more spoken words.
+* Acousticness and Instrumentalness:
+Europe shows a higher preference for acoustic and instrumental tracks.
+North America and the Rest of the World show a minor preference for live performance elements.
+* Valence:
+Highest in Latin America, followed by the Rest of the World and Europe, indicating a preference for positive or euphoric songs.
+
+![tempo](https://github.com/user-attachments/assets/9562e4f3-8759-4ffc-8ec5-aa779e6d186d)
+Latin America and North America prefer faster-paced music, while Europe favors slower-paced tracks. The Rest of the World falls in between but leans towards faster tempos.
+
+![loudness](https://github.com/user-attachments/assets/8de5c339-3fa3-4571-b5fa-d3d5513a4091)
+Latin America prefers the loudest music, followed by North America and then Europe. The Rest of the World prefers the quietest tracks.
+
+![top artists](https://github.com/user-attachments/assets/1362ab1e-0861-4789-aaf1-24b5e3040ffc)
+Top Artists per Region
+
+## Conclusion
+This project provides a comprehensive analysis of Spotify music preferences across different regions over a six-month period. The insights gained can help understand listener habits, regional differences in music tastes, and the popularity trends of artists and genres.
+
+For further details, analysis and stakeholder specific recommendations, refer to the attached 'Data_Analysis_Python_Music_Preferences_Spotify_.ipynb' file
+
 
 
