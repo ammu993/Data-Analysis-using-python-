@@ -1,4 +1,4 @@
-# ANALYSIS OF REGIONAL MUSIC PREFERENCES (DEC 2023 - JUN 2024) USING  PYTHON
+# ANALYSIS OF REGIONAL MUSIC PREFERENCES(DEC 2023 - JUN 2024) USING  PYTHON
 
 ## Overview
 This project analyzes the top Spotify songs in 73 countries over a six-month period from December 1, 2023, to June 1, 2024. The aim is to understand the music preferences of Spotify users across different regions: North America, Latin America, Europe, and the Rest of the World. By examining this dataset, we can identify regional daily trends and top artists that define the global music landscape during this period.
