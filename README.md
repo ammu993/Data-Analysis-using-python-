@@ -1,3 +1,5 @@
+![banner for readme](https://github.com/user-attachments/assets/b40d78e7-34f3-478b-a544-5d3b4500b926)
+
 # ANALYSIS OF REGIONAL MUSIC PREFERENCES(DEC 2023 - JUN 2024) USING  PYTHON
 
 ## Overview
